@@ -3,7 +3,6 @@ function BoatVideo() {
         <video
             className="h-100vh w-full object-cover animate-clip-from-top-animation"
             autoPlay
-            muted
             loop
         >
             <source src="./assets/boat-video.mp4" type="video/mp4" />
